@@ -1,0 +1,23 @@
+body {
+	background-color: #8bbbb7;
+	margin:0 20px;
+}
+p {
+    font-family: "Helvetica";
+    font-size: 20px;
+    color: white;
+}
+h1 {
+	font-family: "Helvetica";
+    color: #d2f1ee;
+    text-align: center;
+}
+h6 {
+	color: #d2f1ee;
+}
+div {
+	background-color: white;
+}
+.location {
+	border: 5px #d2f1ee;
+}
