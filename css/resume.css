@@ -2,22 +2,41 @@ body {
 	background-color: #8bbbb7;
 	margin:0 20px;
 }
+
 p {
-    font-family: "Helvetica";
-    font-size: 20px;
+    font-family: "Quit'n'torn_0";
+    font-size: 30px;
     color: white;
+    text-shadow: 3px 3px 1px #3d575d;
+}
+ul {
+	color: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 h1 {
-	font-family: "Helvetica";
-    color: #d2f1ee;
+	font-family: "Quit'n'torn_0";
+    color: white;
     text-align: center;
+    font-size: 60px;
+    text-shadow: 4px 7px #3d575d;
+    margin-top: 40px;
 }
 h6 {
-	color: #d2f1ee;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	 margin-top: 15px;
+	 font-family: "Impact", Charcoal, sans-serif;
+	text-shadow: 2px 2px black;
+	letter-spacing: 3px;
 }
 div {
-	background-color: white;
+	background-color: #2d3638;
+	padding: 15px;
+	width: 300px;
+	border: 2px solid;
+	border-color: #2d3638;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #3d575d;
 }
-.location {
-	border: 5px #d2f1ee;
-}
+
